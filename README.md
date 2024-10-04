@@ -1,5 +1,5 @@
-AIRLINE MANAGEMENT SYSTEM IS JAVA BASED PROJECT , I HAVE DONE IT ON VSCODE YOU CAN OTHER SUITABLE PLATFORMS TOO. MAKE SURE YOU DOWNLOADED ALL LIBRARY JAR FILES NEEDED FOR PROJECT 
-I USED FOLLOWING LIBRARY JAR FILES , 
-   MYSQL-CONNECTOR-J-8.4.0 FOR CONNECTING DATABASE FROM MYSQL WORKBENCH
-   rs2xml JAR FILE FOR DBUTILS 
-   JCALENDAR-1.4 FOR DATE CHOOSING 
+airline management system is java based project , i have done it on netbeans, you can other suitable platforms too. make sure you downloaded all library jar files needed for project 
+i used following library jar files  
+  1) mysql-connector-j-8.4.0 for connecting database from mysql workbench
+  2) rs2xml jar file for dbutils 
+  3) jcalendar-1.4 for date choosing 
